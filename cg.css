@@ -1,0 +1,40 @@
+#mainbody{
+    background-color: black;
+}
+
+
+#jumbotron{
+    text-align: center;
+    color: white;
+    background-color: dodgerblue;
+}
+
+.col-xsm-4{
+    background-color: yellow;
+    width: 90px;
+    height: 90px;
+    margin:10px;
+    border-radius: 1ch;
+}
+
+#navbar{
+    margin-top: 0px;
+    color: blue;
+    padding: 5px;
+}
+#colors{
+    position: relative;
+    left:35%;
+}
+
+#playAgain:hover {
+    background: slategray;
+}
+
+#easyButton:hover {
+    background: slategray;
+}
+
+#hardButton:hover {
+    background: slategray;
+}
